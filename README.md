@@ -3,7 +3,8 @@
 **Brevify** is an AI-powered study assistant that summarizes **PDFs**, **YouTube videos**, and **web articles** using **Retrieval-Augmented Generation (RAG)**.
 
 ## 🖼️ Screenshot
-![App Screenshot](https://i.ibb.co/fKm7C6K/Screenshot-2025-07-22-223955.png)
+![App Screenshot](https://i.ibb.co/Wv8yxtGw/Screenshot-2025-07-22-212157.png)
+
 
 
 ## 🚀 Features
